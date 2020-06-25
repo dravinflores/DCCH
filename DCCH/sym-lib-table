@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DCCH)(type Legacy)(uri ${KIPRJMOD}/DCCH.lib)(options "")(descr ""))
+)

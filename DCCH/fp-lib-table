@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MSU-LOGO)(type KiCad)(uri "C:/Development/sMDT/Dark Current Control Hardware/MSU-LOGO.pretty")(options "")(descr ""))
+)
