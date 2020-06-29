@@ -111,9 +111,9 @@ Wire Wire Line
 	10050 1550 10250 1550
 Text GLabel 10050 2850 0    39   Input ~ 0
 CLEAR
-Text GLabel 10050 2750 0    39   Input ~ 0
-SYNC
 Text GLabel 10050 2650 0    39   Input ~ 0
+SYNC
+Text GLabel 10050 2750 0    39   Input ~ 0
 WRITE
 Text GLabel 10050 2550 0    39   Input ~ 0
 DATA-IN
@@ -140,9 +140,9 @@ Wire Wire Line
 	10250 2950 10050 2950
 Text GLabel 10050 3850 0    39   Input ~ 0
 CLEAR
-Text GLabel 10050 3750 0    39   Input ~ 0
-SYNC
 Text GLabel 10050 3650 0    39   Input ~ 0
+SYNC
+Text GLabel 10050 3750 0    39   Input ~ 0
 WRITE
 $Comp
 L power:GND #PWR0124
@@ -289,9 +289,9 @@ Wire Wire Line
 	6200 2100 6300 2100
 Wire Wire Line
 	6200 2000 6300 2000
-Text GLabel 6300 2000 2    39   Input ~ 0
-WRITE
 Text GLabel 6300 2100 2    39   Input ~ 0
+WRITE
+Text GLabel 6300 2000 2    39   Input ~ 0
 SYNC
 Text GLabel 6300 2200 2    39   Input ~ 0
 CLEAR
@@ -301,9 +301,9 @@ Wire Wire Line
 	4200 2100 4300 2100
 Wire Wire Line
 	4200 2000 4300 2000
-Text GLabel 4300 2000 2    39   Input ~ 0
-WRITE
 Text GLabel 4300 2100 2    39   Input ~ 0
+WRITE
+Text GLabel 4300 2000 2    39   Input ~ 0
 SYNC
 Text GLabel 4300 2200 2    39   Input ~ 0
 CLEAR
@@ -317,9 +317,9 @@ Wire Wire Line
 	2200 1800 2300 1800
 Text GLabel 2300 1800 2    39   Input ~ 0
 DATA-IN
-Text GLabel 2300 2000 2    39   Input ~ 0
-WRITE
 Text GLabel 2300 2100 2    39   Input ~ 0
+WRITE
+Text GLabel 2300 2000 2    39   Input ~ 0
 SYNC
 Text GLabel 2300 2200 2    39   Input ~ 0
 CLEAR
@@ -990,9 +990,9 @@ Wire Wire Line
 	8200 2100 8300 2100
 Wire Wire Line
 	8200 2000 8300 2000
-Text GLabel 8300 2000 2    39   Input ~ 0
-WRITE
 Text GLabel 8300 2100 2    39   Input ~ 0
+WRITE
+Text GLabel 8300 2000 2    39   Input ~ 0
 SYNC
 Text GLabel 8300 2200 2    39   Input ~ 0
 CLEAR
