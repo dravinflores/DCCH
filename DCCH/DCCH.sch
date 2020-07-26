@@ -2105,12 +2105,12 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_02x04_Odd_Even J4
 U 1 1 5F16B572
-P 10250 4300
-F 0 "J4" H 10300 4617 50  0000 C CNN
-F 1 "Conn_02x04_Odd_Even" H 10300 4526 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 10250 4300 50  0001 C CNN
-F 3 "~" H 10250 4300 50  0001 C CNN
-	1    10250 4300
-	1    0    0    -1  
+P 10350 4300
+F 0 "J4" H 10400 4617 50  0000 C CNN
+F 1 "Conn_02x04_Odd_Even" H 10400 4526 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 10350 4300 50  0001 C CNN
+F 3 "~" H 10350 4300 50  0001 C CNN
+	1    10350 4300
+	-1   0    0    -1  
 $EndComp
 $EndSCHEMATC
